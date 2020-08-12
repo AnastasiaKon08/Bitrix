@@ -1,0 +1,50 @@
+2020-08-12 13:28:53 INFO  Hooks:19 - ::: Starting automation:::
+2020-08-12 13:28:53 INFO  Hooks:20 - Browser type: chrome
+2020-08-12 13:28:53 INFO  Hooks:21 - URL: https://login2.nextbasecrm.com/
+2020-08-12 13:28:53 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-12 13:39:59 INFO  Hooks:19 - ::: Starting automation:::
+2020-08-12 13:39:59 INFO  Hooks:20 - Browser type: chrome
+2020-08-12 13:39:59 INFO  Hooks:21 - URL: https://login2.nextbasecrm.com/
+2020-08-12 13:39:59 INFO  Driver:39 - Browser :: chrome
+2020-08-12 13:40:05 INFO  LoginPage:41 - Logins as hr
+2020-08-12 13:40:05 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-12 14:52:30 INFO  Hooks:19 - ::: Starting automation:::
+2020-08-12 14:52:30 INFO  Hooks:20 - Browser type: chrome
+2020-08-12 14:52:30 INFO  Hooks:21 - URL: https://login2.nextbasecrm.com/
+2020-08-12 14:52:30 INFO  Driver:39 - Browser :: chrome
+2020-08-12 14:52:30 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-12 14:52:30 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasia/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-12 14:52:37 INFO  LoginPage:41 - Logins as hr
+2020-08-12 14:52:37 INFO  BasePage:26 - Navigating to: Activity Stream
+2020-08-12 14:52:38 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-12 14:52:59 INFO  Hooks:19 - ::: Starting automation:::
+2020-08-12 14:52:59 INFO  Hooks:20 - Browser type: chrome
+2020-08-12 14:52:59 INFO  Hooks:21 - URL: https://login2.nextbasecrm.com/
+2020-08-12 14:52:59 INFO  Driver:39 - Browser :: chrome
+2020-08-12 14:53:00 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-12 14:53:00 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasia/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-12 14:53:05 INFO  LoginPage:41 - Logins as hr
+2020-08-12 14:53:06 INFO  BasePage:26 - Navigating to: Activity Stream
+2020-08-12 14:53:06 INFO  Hooks:35 - ::: Ending automation :::
+2020-08-12 15:08:16 INFO  Hooks:19 - ::: Starting automation:::
+2020-08-12 15:08:16 INFO  Hooks:20 - Browser type: chrome
+2020-08-12 15:08:16 INFO  Hooks:21 - URL: https://login2.nextbasecrm.com/
+2020-08-12 15:08:16 INFO  Driver:39 - Browser :: chrome
+2020-08-12 15:08:16 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-12 15:08:16 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasia/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-12 15:08:21 INFO  LoginPage:41 - Logins as hr
+2020-08-12 15:08:22 INFO  BasePage:26 - Navigating to: Activity Stream
+2020-08-12 15:08:22 INFO  ActivityStreamPage:37 - File path: /Users/anastasia/IdeaProjects/Bitrix/src/test/resources/testData/testImage.png
+2020-08-12 15:08:25 INFO  ActivityStreamPage:45 - Clicking on the send button
+2020-08-12 15:08:25 INFO  Hooks:36 - ::: Ending automation :::
+2020-08-12 15:09:13 INFO  Hooks:19 - ::: Starting automation:::
+2020-08-12 15:09:13 INFO  Hooks:20 - Browser type: chrome
+2020-08-12 15:09:13 INFO  Hooks:21 - URL: https://login2.nextbasecrm.com/
+2020-08-12 15:09:13 INFO  Driver:39 - Browser :: chrome
+2020-08-12 15:09:13 INFO  WebDriverManager:573 - Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+2020-08-12 15:09:13 INFO  WebDriverManager:631 - Exporting webdriver.chrome.driver as /Users/anastasia/.m2/repository/webdriver/chromedriver/mac64/84.0.4147.30/chromedriver
+2020-08-12 15:09:18 INFO  LoginPage:41 - Logins as hr
+2020-08-12 15:09:19 INFO  BasePage:26 - Navigating to: Activity Stream
+2020-08-12 15:09:19 INFO  ActivityStreamPage:37 - File path: /Users/anastasia/IdeaProjects/Bitrix/src/test/resources/testData/testImage.png
+2020-08-12 15:09:24 INFO  ActivityStreamPage:45 - Clicking on the send button
+2020-08-12 15:09:24 INFO  Hooks:36 - ::: Ending automation :::

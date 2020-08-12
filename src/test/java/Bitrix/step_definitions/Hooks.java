@@ -19,6 +19,7 @@ public class Hooks {
         logger.info("::: Starting automation:::");
         logger.info("Browser type: " + ConfigurationReader.getProperty("browser"));
         logger.info("URL: " + ConfigurationReader.getProperty("url"));
+        Driver.getDriver().manage().window().maximize();
 
     }
 

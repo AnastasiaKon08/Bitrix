@@ -44,7 +44,7 @@ public class Driver {
                     chromeOptions.addArguments("--start-maximized");
                     driverPool.set(new ChromeDriver(chromeOptions));
                     break;
-                case "chromeheadless":
+                case "chrome-headless":
                     //to run chrome without interface (headless mode)
                     WebDriverManager.chromedriver().setup();
                     ChromeOptions options = new ChromeOptions();

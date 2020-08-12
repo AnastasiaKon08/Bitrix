@@ -23,11 +23,7 @@ public class LoginPage extends BasePage {
         logger.info("Login with " + usernameString + " username and " + passwordString + " password");
     }
 
-    /**
-     * This method used for login under specific role
-     *
-     * @param role like hr, helpdesk, marketing
-     */
+
     public void login(String role) {
         role = role.toLowerCase();
         /**
